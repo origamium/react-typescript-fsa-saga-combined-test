@@ -25,7 +25,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "now-build": "react-scripts build"
   },
   "devDependencies": {
     "@types/redux-logger": "^3.0.7",
